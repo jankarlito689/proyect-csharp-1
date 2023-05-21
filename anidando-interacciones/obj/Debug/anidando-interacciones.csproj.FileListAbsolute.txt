@@ -1,0 +1,8 @@
+D:\proyectos c#\anidando-interacciones\anidando-interacciones\bin\Debug\anidando-interacciones.exe.config
+D:\proyectos c#\anidando-interacciones\anidando-interacciones\bin\Debug\anidando-interacciones.exe
+D:\proyectos c#\anidando-interacciones\anidando-interacciones\bin\Debug\anidando-interacciones.pdb
+D:\proyectos c#\anidando-interacciones\anidando-interacciones\obj\Debug\anidando-interacciones.csproj.AssemblyReference.cache
+D:\proyectos c#\anidando-interacciones\anidando-interacciones\obj\Debug\anidando-interacciones.csproj.SuggestedBindingRedirects.cache
+D:\proyectos c#\anidando-interacciones\anidando-interacciones\obj\Debug\anidando-interacciones.csproj.CoreCompileInputs.cache
+D:\proyectos c#\anidando-interacciones\anidando-interacciones\obj\Debug\anidando-interacciones.exe
+D:\proyectos c#\anidando-interacciones\anidando-interacciones\obj\Debug\anidando-interacciones.pdb
